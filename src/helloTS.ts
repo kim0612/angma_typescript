@@ -3,5 +3,5 @@ function greeter(person: string) {
 }
  
 let user = "Jane User";
- 
-document.body.textContent = greeter(user);
+
+console.log(greeter(user));
